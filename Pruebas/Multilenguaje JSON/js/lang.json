@@ -1,0 +1,14 @@
+{
+  "es": {
+    "prueba1": "Esto es una prueba",
+    "prueba2": "Este texto esta en español",
+    "prueba3": "Soy Jesus 666",
+    "prueba4": "Hola"
+  },
+  "en": {
+    "prueba1": "This is a test",
+    "prueba2": "This text is in english",
+    "prueba3": "I'm Jesus 666",
+    "prueba4": "Hello"
+  }
+}
